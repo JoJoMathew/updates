@@ -38,6 +38,10 @@ JoJoLauncher will check for a .xml file at https://raw.githubusercontent.com/joj
 
 - releaseNotes: Optional.
 
+### Notes:
+*If latestVersionCode is included in the XML, latestVersion will only be used to display the latest version in the dialog and the versionCode will be used to compare the installed and latest update.*
+
+
 ## Customizing The Title, Description, Buttons & More
 • You can customise the pop-up shown to the stores, available options are:
 
@@ -57,7 +61,3 @@ new AppUpdater(this)
 	.setCancelable(false) // Dialog could not be dismissable
 	...
 ```
-
-### Notes:
-*If latestVersionCode is included in the XML, latestVersion will only be used to display the latest version in the dialog and the versionCode will be used to compare the installed and latest update.*
-
