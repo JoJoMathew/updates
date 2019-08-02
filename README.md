@@ -1,3 +1,18 @@
+### Example XML
+
+''''
+<AppUpdater>
+  <update>
+    <latestVersion>1.2.2</latestVersion>
+    <latestVersionCode>10</latestVersionCode>
+    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+  </update>
+</AppUpdater>
+''''
+
+
+
+
 ### Values
 - latestVersion: Required.
 
