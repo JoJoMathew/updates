@@ -18,7 +18,7 @@ JoJoLauncher will check for a .xml file at https://raw.githubusercontent.com/joj
   <update>
     <latestVersion>1.2.2</latestVersion>
     <latestVersionCode>10</latestVersionCode>
-    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+    <url>https://github.com/jojomamanbebe/JoJoLauncher/releases</url>
     <releaseNotes>
 - First Note
 - Second Note
@@ -38,5 +38,6 @@ JoJoLauncher will check for a .xml file at https://raw.githubusercontent.com/joj
 
 - releaseNotes: Optional.
 
-### Note:
-If latestVersionCode is included in the XML, latestVersion will only be used to display the latest version in the dialog and the versionCode will be used to compare the installed and latest update.
+### Notes:
+*If latestVersionCode is included in the XML, latestVersion will only be used to display the latest version in the dialog and the versionCode will be used to compare the installed and latest update.*
+
