@@ -9,6 +9,23 @@
 </AppUpdater>
 ```
 
+### Adding release notes
+```xml
+<AppUpdater>
+  <update>
+    <latestVersion>1.2.2</latestVersion>
+    <latestVersionCode>10</latestVersionCode>
+    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+    <releaseNotes>
+- First Note
+- Second Note
+- Bug fixes
+- Etc Etc..
+    </releaseNotes>
+  </update>
+</AppUpdater>
+```
+
 ### Values
 - latestVersion: Required.
 
