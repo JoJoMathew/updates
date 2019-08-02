@@ -38,7 +38,7 @@ JoJoLauncher will check for a .xml file at https://raw.githubusercontent.com/joj
 
 - releaseNotes: Optional.
 
-### Customizing The Title, Description, Buttons & More
+## Customizing The Title, Description, Buttons & More
 • You can customise the pop-up shown to the stores, available options are:
 
 ```java
