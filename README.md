@@ -1,3 +1,6 @@
+# JoJoLauncher Auto Update 
+JoJoLauncher will check for a .xml file at https://raw.githubusercontent.com/jojomamanbebe/updates/master/update.xml, It will then compare the version number in the XML file to the version number of the App installed and if there is a newer version available it will prompt the user to download and install the new apk. Examples of the XML file format can be found below.
+
 ### Example XML
 ```xml
 <AppUpdater>
