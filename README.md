@@ -4,7 +4,7 @@
   <update>
     <latestVersion>1.2.2</latestVersion>
     <latestVersionCode>10</latestVersionCode>
-    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+    <url>https://github.com/jojomamanbebe/JoJoLauncher/releases</url>
   </update>
 </AppUpdater>
 ```
